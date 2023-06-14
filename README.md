@@ -6,3 +6,6 @@ just:
 gradle build
 gradle fatjar
 import your .jar file from the lib folder
+
+
+You can also find a Pre Compiled Jar here.
